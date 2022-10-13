@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 class Solver
   def factorial(number)
     return 'number must be greater than or equal to 0' if number.negative?
