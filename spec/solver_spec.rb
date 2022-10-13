@@ -6,7 +6,7 @@ describe Solver do
   before(:each) do
     @solver = Solver.new
   end
-  
+
   describe '#factorial' do
     it 'returns 1 when n is 0' do
       expect(@solver.factorial(0)).to eq(1)
