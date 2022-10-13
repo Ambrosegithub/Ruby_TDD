@@ -1,43 +1,43 @@
-# oop_school_library_ruby
-In this project we implemented a class with some methods, this was done by doing test-driven development (TDD). This was completed by writing tests first and then the code. This will be verified in our commits history, so it is important to use the proper sequence.
+# Peoject Name :  TDD aproach
+
+> Description the project.
+In this project Test Driven Development my partner @Ambrosegithub and @chimwemwe007 used ruby to decode morse code.
+
+## Built With
+
+- Ruby
+
 
 ## Getting Started
 
-For a complete list of ways to install Ruby, including using third-party tools
-like rvm, see:
+**This is an example of how you may give instructions on setting up your project locally.**
+**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
 
-https://www.ruby-lang.org/en/downloads/
+- git clone https://github.com/Ambrosegithub/Ruby_TDD
 
-The mirror of the Ruby source tree can be checked out with the following command:
+To get a local copy up and running follow these simple example steps.
 
-    $ git clone https://github.com/ruby/ruby.git
-
-There are some other branches under development. Try the following command
-to see the list of branches:
-
-    $ git ls-remote https://github.com/ruby/ruby.git
+### Prerequisites
 
 ## Authors
 
-#### :bust_in_silhouette: Chimwemwe Mkandawire
+👤 **Author1**
 
-👤 **Author**
+- GitHub: [@chimwemwe007](https://github.com/chimwmwe007)
+- Twitter: [@chxmz](https://twitter.com/chxmz)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/chimwemwe-mkandawire)
+
+👤 **Author2**
 
 - GitHub: [@ambrosegithub](https://github.com/ambrosegithub)
 - Twitter: [@twitterhandle](https://twitter.com/Glorious851)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ambrose-isigba/)
 
-👤 **Author**
-
-- GitHub: [@chimwemwe007](https://github.com/chimwemwe007)
-- Twitter: [@chxmz](https://twitter.com/chxmz)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/chimwemwe-mkandawire/)
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Ambrosegithub/Ruby_TDD/issues).
 
 ## Show your support
 
@@ -45,5 +45,10 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Microverse
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
 
+## 📝 License
+
+This project is [MIT](https://github.com/Ambrosegithub/Ruby_TDD/blob/dev-branch/LICENSE) licensed.
