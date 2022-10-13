@@ -6,10 +6,7 @@ describe Solver do
   before(:each) do
     @solver = Solver.new
   end
-  # if n  = 0 , return 1
-  # if n  > 0 , return facatorial of n
-  # if n < 0, return error message
-  # test the factorial method
+  
   describe '#factorial' do
     it 'returns 1 when n is 0' do
       expect(@solver.factorial(0)).to eq(1)
